@@ -18,7 +18,7 @@
 
 ## 2. ¿Qué puede hacer javascript?
 
-> Javascript puede reescribir el DOM.  
+> Javascript puede reescribir el .  
 > Podemos modificar características o atributos de un elemento.
 > Podemos modificar el contenido de un elemento.     
 > Podemos crear un elemento "a pedido".
