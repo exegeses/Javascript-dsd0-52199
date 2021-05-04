@@ -46,7 +46,7 @@
     var anio = fecha.getFullYear();
 
     // escribimos dentro del span
-    txt.innerText = diaSemana+diaMes+' '+'/'+mes+'/'+anio;
+    txt.innerText = diaSemana+' '+diaMes+'/'+mes+'/'+anio;
 
 
 /*
