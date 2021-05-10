@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&display=swap');
+body{
+    background-color: #e9e9e9;
+    color: #555;
+    font-family: Raleway;
+    font-weight: 500;
+    font-size: 1em;
+    width: 700px;
+    margin: auto;
+}
+h1{
+    border-left: 12px sandybrown solid;
+    padding-left: 12px;
+}
+button{
+    padding: 15px 35px;
+}
+#caja{
+    width: 200px;
+    height: 200px;
+    background-color: #666;
+    margin-top: 25px;
+}
