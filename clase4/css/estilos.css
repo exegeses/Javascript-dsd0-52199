@@ -21,3 +21,10 @@ button{
     background-color: #666;
     margin-top: 25px;
 }
+#fotos {
+    display: flex;
+    flex-wrap: wrap;
+}
+    #fotos article{
+        margin: 10px;
+    }
